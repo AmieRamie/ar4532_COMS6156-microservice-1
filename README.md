@@ -32,24 +32,20 @@ Here you can see that we have started the flask server in main.py and sent a req
 
 I cloned the starter repo Professor Ferguson made, deleted the .git file, created a new repo, and pushed all updates to that repo. This is that result
 
-<hr>
+### Deploying Project on AWS
 
-__Note:__
-- The default behavior for virtual environment creation is to
-create the venv in the current folder/project.
-- You can create the venv anywhere on the file system.
-- You do not want to venv pushed to GitHub. So, if the venv is inside the
-project, remove the directory from the set of files that will be pushed.
-The easiest way is to add to a [.gitignore file.](https://git-scm.com/docs/gitignore)
+| <img src="./pictures/AWS_console.png"> |
+| :---: |
+| __Information about EC2 VM__ |
 
-<hr>
+| <img src="./pictures/microservice_running_on_aws.png"> |
+| :---: |
+| __Microservice Running on AWS__ |
 
-<br>
+Due to some issues that I wasn't able to solve with FastAPI I could only access the public url AWS gave me using http vs https. It does not work with https.
 
-- Commit and push your application to the GitHub repository.
-
-
-- You have completed the first part of the initial assignment.
+Here is my repo: https://github.com/AmieRamie/ar4532_COMS6156-microservice-1/tree/main
+And though I may have stopped the instance by the time you start grading, here is the link to the app: http://ec2-3-145-101-164.us-east-2.compute.amazonaws.com:8000/hello/Am
 
 
 
