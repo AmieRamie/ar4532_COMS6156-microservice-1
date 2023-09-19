@@ -16,20 +16,13 @@ __Author:__ Amrit Ramesh
 
 Here is my file directory
 
-### Modification
+### Starter Project Executed
 
-1. Create a new GitHub project and clone the project.<br><br>
-2. Change the name of the author in ```README.md```<br><br>
-2. Copy the code from this example into the directory for the project.<br><br>
-3. Follow the steps for:
-   1. Creating a virtual environment for your version of the project.
-   2. ```pip``` installing ```requirements.txt```
-   3. Executing and accessing the application.
-4. In ```main.py,``` modify the line ```return {"message": f"Hello {name}"}``` to return
-a message of the form ```return {"message": f"Awesome cloud developer dff9 says Hello {name}"}```
-Replace my uni with yours.
-5. Rerun the application to test.
+| <img src="./pictures/script_executing.png"> |
+| :---: |
+| __Executing Script__ |
 
+Here you can see that we have started the flask server in main.py and sent a request to the /hello endpoint
 
 ### Publish
 
