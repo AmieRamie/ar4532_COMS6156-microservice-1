@@ -6,10 +6,13 @@ __Author:__ Amrit Ramesh
 ### Directory
 
 
-| <img src="./browser-screen-1.png"> |
+| <img src="./pictures/directory.png"> |
 | :---: |
-| __Simple Execution__ |
+| __File Explorer__ |
 
+| <img src="./pictures/modified_code.png"> |
+| :---: |
+| __Modified Code__ |
 
 Here is my file directory
 
