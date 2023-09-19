@@ -24,8 +24,13 @@ Here is my file directory
 
 Here you can see that we have started the flask server in main.py and sent a request to the /hello endpoint
 
-### Publish
+### Publish to personal GitHub repository
 
+| <img src="./pictures/personal_repo.png"> |
+| :---: |
+| __Personal Repo with Project__ |
+
+I cloned the starter repo Professor Ferguson made, deleted the .git file, created a new repo, and pushed all updates to that repo. This is that result
 
 <hr>
 
